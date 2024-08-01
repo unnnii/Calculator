@@ -1,6 +1,6 @@
 let display = document.getElementById('display');
-let currOperand = '';
-let previoursOperand = '';
+let currentOperand = '';
+let previousOperand = '';
 let operation = null;
 
 
